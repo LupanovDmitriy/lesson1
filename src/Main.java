@@ -9,6 +9,7 @@ public class Main {
         part5();
         part6();
         part7();
+        
     }
 
     public static void part1() {
