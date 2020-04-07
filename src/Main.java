@@ -77,7 +77,7 @@ public class Main {
     public static  boolean from_10_to_20(int a, int b){
         if (a+b>=10 && a+b<=20){
             return true;
-            
+
         }
         else
         {
